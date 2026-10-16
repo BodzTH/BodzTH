@@ -1,19 +1,8 @@
-# Hi, I'm Bodz
+# Oye, I'm Bodz
+I hope you find something interesting.
+__I use Arch BTW__.
 
-Computer Engineering graduate working across hardware and software.
-I use Arch BTW.
-
----
-
-## About
-
-**Currently:** Building DevOps projects\
-**Interested in:** Embedded Systems, DevOps/GitOps\
-**Open to:** Embedded and DevOps roles
-
-## Skills
-
+**Daily Driver:** Arch, Neovim, Hyprland, Kitty, Fish\
 **Languages:** C, C++, Python, Bash\
 **DevOps:** Git, Docker, Nginx, Linux\
-**Embedded:** ARM Cortex-M, AVR, CAN Bus, MQTT\
-**Daily Driver:** Arch, Neovim, Hyprland, Kitty, Fish
+**Embedded:** ARM Cortex-M, AVR, CAN Bus, MQTT
